@@ -39,6 +39,7 @@ allprojects {
     }
 }
 
+
 sonarqube {
     properties {
         property "sonar.projectKey", "applibgroup_neumorphism"
