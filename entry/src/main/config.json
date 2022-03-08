@@ -1,7 +1,7 @@
 {
   "app": {
-    "bundleName": "com.cyb0rg.neumorphism",
-    "vendor": "cyb0rg",
+    "bundleName": "com.cyborg.neumorphism",
+    "vendor": "cyborg",
     "version": {
       "code": 1000000,
       "name": "1.0.0"
@@ -9,9 +9,9 @@
   },
   "deviceConfig": {},
   "module": {
-    "package": "com.cyb0rg.neumorphism",
+    "package": "com.cyborg.neumorphism",
     "name": ".MyApplication",
-    "mainAbility": "com.cyb0rg.neumorphism.MainAbility",
+    "mainAbility": "com.cyborg.neumorphism.MainAbility",
     "deviceType": [
       "phone",
       "tablet",
@@ -36,7 +36,8 @@
             ]
           }
         ],
-        "name": "com.cyb0rg.neumorphism.MainAbility",
+        "visible": true,
+        "name": "com.cyborg.neumorphism.MainAbility",
         "icon": "$media:icon",
         "description": "$string:mainability_description",
         "label": "$string:entry_MainAbility",
